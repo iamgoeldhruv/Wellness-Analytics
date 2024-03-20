@@ -17,8 +17,7 @@ Welcome to our Health Analytics Website! Our platform provides a seamless and ef
 6. Data Security: We prioritize the security and confidentiality of customer data. All information entered, including booking IDs, is encrypted and securely stored to ensure privacy and compliance with data protection regulations.
 
 ## Video link
-   https://www.youtube.com/watch?v=5C5ASWzE_fQ
-   
+   https://www.youtube.com/watch?v=iyObxQWEjyU
    https://www.youtube.com/watch?v=KLX33q0u9Js
 
 ## Instalation
