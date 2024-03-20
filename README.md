@@ -1,6 +1,8 @@
 # Wellness Analytics
 Welcome to our Health Analytics Website! Our platform provides a seamless and efficient way for customers to access their lab reports by simply entering their booking ID. With intuitive visualization tools, smart interpretation of lab reports, and personalized insights, we aim to empower users in understanding and managing their health effectively.
 
+![1](https://github.com/iamgoeldhruv/Wellness-Analytics/assets/148644657/adeaaea5-5842-4925-912a-e5144bda8b48)
+
 ## Features:
 1. Booking ID Access: Customers can easily access their lab reports by entering their booking ID. This streamlined process eliminates the need for customers to manually upload their reports, enhancing convenience and user experience.
 
@@ -8,6 +10,7 @@ Welcome to our Health Analytics Website! Our platform provides a seamless and ef
 
 3. Smart Interpretation of Lab Reports: Our platform provides intelligent interpretations of lab reports, offering insights into what the parameters indicate about the customer's health. Receive personalized recommendations based on the interpretation to support proactive health management.
    
+![2](https://github.com/iamgoeldhruv/Wellness-Analytics/assets/148644657/09ef0ad0-1cf3-46f0-a61e-9d076f03645d)
 
 5. Visual Information Providing Charts: Access visual information providing charts that present health data in a clear and understandable format. From trend analysis to comparative charts, customers can easily comprehend their health status and make informed decisions.
 
