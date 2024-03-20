@@ -1,0 +1,23 @@
+.services-box-container {
+  display: flex;
+  justify-content: center;
+}
+
+.services-box-row {
+  display: flex;
+  gap: 20px; /* Adjust the gap between boxes as needed */
+}
+
+.swiper-slide {
+  width: 25%;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.swiper-wrapper {
+  width: 100%;
+}

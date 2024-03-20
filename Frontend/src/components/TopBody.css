@@ -1,0 +1,10 @@
+/* Define keyframes for fade-in animation */
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+/* Apply fade-in animation to elements with the 'fade-in' class */
+.fade-in {
+  animation: fadeIn 1s ease forwards; /* Animation duration and timing function */
+}

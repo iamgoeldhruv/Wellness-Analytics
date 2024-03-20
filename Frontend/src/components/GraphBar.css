@@ -1,0 +1,30 @@
+/* CSS Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.masterChart {
+  display: flex;
+  flex-wrap: wrap; /* Allow charts to wrap to the next line */
+}
+
+.chart-container {
+  width: 33.33%; /* Each chart container takes one-third of the page by default */
+  padding: 10px; /* Add spacing between charts */
+  box-sizing: border-box; /* Include padding in the width calculation */
+}
+
+/* Media queries for responsive layout */
+@media (max-width: 1000px) {
+  .chart-container {
+    width: 50%; /* Two charts in one line for max width 1000px */
+  }
+}
+
+@media (max-width: 700px) {
+  .chart-container {
+    width: 100%; /* One chart per line for max width 700px */
+  }
+}

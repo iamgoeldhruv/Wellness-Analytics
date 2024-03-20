@@ -1,0 +1,119 @@
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  width: 90%;
+  height: 100px;
+  margin: 0px auto;
+  padding: 30px 0px;
+}
+
+.logo {
+  color: #122853;
+  font-weight: 700;
+  font-size: 1.4rem;
+  transition: transform 0.3s ease; /* Add transition for smooth animation */
+}
+
+.kchbhi {
+  display: flex;
+}
+
+.bg {
+  background-color: rgb(196 217 234);
+}
+
+.kchbhi span {
+  position: relative;
+  top: 13px;
+  color: #122853;
+  font-weight: bolder;
+  font-size: 1.3rem;
+}
+
+.kchbhi img {
+  height: 50px;
+  width: 60px;
+  position: relative;
+  top: 2px;
+  left: -5px;
+  transition: transform 0.3s ease; /* Add transition for smooth animation */
+}
+
+/* Add hover styles for logo image */
+.kchbhi img:hover {
+  transform: scale(1.2); /* Magnify the image by 20% on hover */
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: auto;
+  margin-left: 40px;
+}
+
+.menu li a {
+  margin: 0px 20px;
+  color: #303030;
+  font-size: 1.1rem;
+  font-weight: 500;
+  transition: all ease 0.3s;
+}
+.secular-one-regular {
+  font-family: "Secular One", sans-serif;
+  font-weight: bold;
+  font-style: normal;
+}
+
+.menu li a:hover {
+  color: white;
+  transform: translateY(-2px);
+  background-color: #014dd5;
+  padding: 10px;
+  border-radius: 20px;
+}
+.madimi-one-regular {
+  font-family: "Madimi One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.small-nv button {
+  margin-right: 1px; /* Adjust the margin-right value to decrease or increase the spacing */
+}
+
+
+.nav-appointment-btn {
+  height: 45px;
+  margin: 10px;
+  padding: 0px 20px;
+  border-radius: 4px;
+  background-color: #014dd5;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 500;
+  letter-spacing: 1px;
+  font-size: 0.9rem;
+}
+
+.small-nv {
+  display: flex;
+  padding: 10px;
+}
+
+ul.menu {
+  list-style-type: none; /* Remove default marker */
+  padding: 0; /* Remove default padding */
+  margin: 0; /* Remove default margin */
+}
+
+.small-nv{
+  padding: 0px;
+}
+ul.menu li {
+  display: inline-block; /* Display list items horizontally */
+  margin-right: 20px; /* Add spacing between list items */
+}

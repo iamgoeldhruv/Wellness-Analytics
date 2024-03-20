@@ -1,0 +1,39 @@
+@keyframes slideInUp {
+  from {
+    opacity: 0;
+    transform: translateY(100%);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.bg-light-blue {
+  background-color: lightblue; /* Adjust the shade of blue as needed */
+}
+.veryouter{
+  background-color: blueviolet;
+}
+.body-container img{
+  top: 20%;
+  left: 28%;
+  height: 100%;
+  position: absolute;
+}
+.headcard,
+.stomachcard,
+.heartcard,
+.legscard {
+  position: absolute;
+  /* width: 156px;
+  height: 215px; */
+  border: 2px solid black;
+  animation: slideInUp 1s ease-in-out forwards;
+}
+
+.headcard .MuiCardContent-root,
+.stomachcard .MuiCardContent-root,
+.heartcard .MuiCardContent-root,
+.legscard .MuiCardContent-root {
+  animation: slideInUp 1s ease-in-out forwards;
+}
