@@ -41,3 +41,11 @@ Welcome to our Health Analytics Website! Our platform provides a seamless and ef
    cd Frontend
    npm run dev
    ```
+
+## Feedback and Support:
+We value your feedback and are committed to providing a seamless and user-friendly experience on our Health Analytics Website. If you have any suggestions, encounter technical issues, or require assistance, please reach out to our support team. We are here to ensure that your experience with our platform is positive and productive.
+
+Thank you for choosing our Health Analytics Website. We look forward to empowering you with valuable insights to optimize your health and well-being!
+
+## Disclaimer:
+While our platform provides valuable insights for health management, it is not a substitute for professional medical advice or diagnosis. Always consult with qualified healthcare professionals regarding your specific health concerns and decisions. We do not assume any liability for actions taken based on information obtained from our platform.
